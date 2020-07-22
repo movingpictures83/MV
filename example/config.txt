@@ -1,0 +1,2 @@
+Prefix plugins/MV/example
+Plugin MV inputfile parameters.txt outputfile mv
